@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidSecondApp</string>
+    <string-array name="activities">
+        <item>Gra</item>
+        <item>Notatnik</item>
+        <item>Kalkulator</item>
+    </string-array>
+</resources>
